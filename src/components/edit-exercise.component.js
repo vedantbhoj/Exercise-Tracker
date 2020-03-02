@@ -124,7 +124,7 @@ export default class EditExercise extends Component {
               />
         </div>
         <div className="form-group">
-          <label>Duration (in minutes): </label>
+          <label>Amount (in ether): </label>
           <input 
               type="text" 
               className="form-control"
